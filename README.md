@@ -57,8 +57,9 @@ All code implementation, version control, and deployment were done by the author
 
 **Tanishq Choudhary**  
 **Tarun Kumar Prajapati**  
-**Umesh Jii Rathore**  
+**Umesh Rathore**  
 **Vansh Jain**  
 B.Tech CSE  
 RailWayZ Project
 Team VUTT
+AITR
