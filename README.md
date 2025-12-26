@@ -12,7 +12,7 @@ RailWayZ is a web-based railway navigation system developed to help users naviga
 
 - User Authentication (Login / Signup)
 - Email OTP Verification
-- Interactive Railway Station Map
+- Interactive Railway Station Guidance
 - Station Facilities Information
 - Responsive UI
 - Secure Environment Variable Management
