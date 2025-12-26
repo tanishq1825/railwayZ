@@ -1,0 +1,140 @@
+{
+  "nav": {
+    "home": "હોમ",
+    "stations": "સ્ટેશનો",
+    "facilities": "સુવિધાઓ",
+    "navigation": "નેવિગેશન",
+    "alerts": "અલર્ટ્સ",
+    "about": "અમારા વિશે"
+  },
+  "auth": {
+    "login": "લોગિન",
+    "signup": "સાઇન અપ",
+    "logout": "લોગઆઉટ",
+    "email": "ઈમેઇલ",
+    "password": "પાસવર્ડ",
+    "name": "નામ",
+    "phone": "ફોન",
+    "forgotPassword": "પાસવર્ડ ભૂલી ગયા?",
+    "rememberMe": "મને યાદ રાખો",
+    "noAccount": "એકાઉન્ટ નથી?",
+    "hasAccount": "પહેલેથી એકાઉન્ટ છે?",
+    "createAccount": "એકાઉન્ટ બનાવો"
+  },
+  "home": {
+    "hero": {
+      "title": "ભારતીય રેલવેમાં નેવિગેટ કરો",
+      "subtitle": "સરળતાથી",
+      "description": "રેલવે સ્ટેશન નેવિગેશન માટે તમારો સ્માર્ટ સાથી. પ્લેટફોર્મ, સુવિધાઓ અને સેવાઓ તરત જ શોધો.",
+      "searchPlaceholder": "સ્ટેશનો શોધો...",
+      "exploreStations": "સ્ટેશનો જુઓ",
+      "viewMap": "નકશો જુઓ"
+    },
+    "features": {
+      "title": "RailWayZ શા માટે પસંદ કરવું?",
+      "subtitle": "આધુનિક મુસાફરો માટે સ્માર્ટ ફીચર્સ",
+      "navigation": {
+        "title": "સ્માર્ટ નેવિગેશન",
+        "description": "રેલવે સ્ટેશનોની અંદર ટર્ન-બાય-ટર્ન દિશાઓ મેળવો"
+      },
+      "realtime": {
+        "title": "રીયલ-ટાઇમ અપડેટ્સ",
+        "description": "લાઇવ પ્લેટફોર્મ ફેરફારો અને અલર્ટ્સથી અપડેટ રહો"
+      },
+      "facilities": {
+        "title": "સુવિધાઓ શોધો",
+        "description": "શૌચાલય, ફૂડ કોર્ટ અને વધુ તરત જ શોધો"
+      },
+      "offline": {
+        "title": "ઓફલાઇન એક્સેસ",
+        "description": "ઇન્ટરનેટ વિના પણ સ્ટેશન નકશા એક્સેસ કરો"
+      }
+    }
+  },
+  "stations": {
+    "title": "રેલવે સ્ટેશનો",
+    "subtitle": "ભારતભરમાં સ્ટેશનો જુઓ",
+    "searchPlaceholder": "સ્ટેશનના નામ અથવા શહેર દ્વારા શોધો...",
+    "platforms": "પ્લેટફોર્મ",
+    "viewDetails": "વિગતો જુઓ",
+    "facilities": "સુવિધાઓ",
+    "noResults": "કોઈ સ્ટેશન મળ્યું નથી"
+  },
+  "facilities": {
+    "title": "સ્ટેશન સુવિધાઓ",
+    "subtitle": "રેલવે સ્ટેશનો પર સુવિધાઓ અને સેવાઓ શોધો",
+    "selectStation": "સ્ટેશન પસંદ કરો",
+    "allCategories": "બધી શ્રેણીઓ",
+    "available": "ઉપલબ્ધ",
+    "unavailable": "અનુપલબ્ધ",
+    "open24Hours": "24 કલાક ખુલ્લું",
+    "platform": "પ્લેટફોર્મ",
+    "location": "સ્થાન",
+    "noFacilities": "કોઈ સુવિધા મળી નથી"
+  },
+  "navigation": {
+    "title": "સ્ટેશન નેવિગેશન",
+    "subtitle": "સ્ટેશનની અંદર દિશાઓ મેળવો",
+    "selectStation": "સ્ટેશન પસંદ કરો",
+    "selectStart": "શરૂઆતનું બિંદુ",
+    "selectDestination": "ગંતવ્ય",
+    "guideMe": "મને માર્ગદર્શન આપો",
+    "estimatedTime": "અંદાજિત સમય",
+    "minutes": "મિનિટ",
+    "directions": "દિશાઓ"
+  },
+  "alerts": {
+    "title": "અલર્ટ્સ અને સૂચનાઓ",
+    "subtitle": "મહત્વપૂર્ણ જાહેરાતોથી અપડેટ રહો",
+    "noAlerts": "કોઈ સક્રિય અલર્ટ નથી",
+    "platformChange": "પ્લેટફોર્મ ફેરફાર",
+    "maintenance": "જાળવણી",
+    "general": "સામાન્ય",
+    "emergency": "કટોકટી"
+  },
+  "about": {
+    "title": "RailWayZ વિશે",
+    "subtitle": "તમારો વિશ્વસનીય રેલવે નેવિગેશન સાથી",
+    "mission": {
+      "title": "અમારું મિશન",
+      "description": "ભારતમાં દરેક મુસાફર માટે રેલવે સ્ટેશન નેવિગેશનને સરળ અને સુલભ બનાવવું."
+    },
+    "vision": {
+      "title": "અમારી દ્રષ્ટિ",
+      "description": "એવું ભવિષ્ય જ્યાં કોઈપણ રેલવે સ્ટેશનમાં નેવિગેટ કરવું સ્માર્ટફોન વાપરવા જેટલું સરળ હોય."
+    }
+  },
+  "footer": {
+    "description": "ભારતભરમાં રેલવે સ્ટેશન નેવિગેશન માટે તમારો સ્માર્ટ સાથી.",
+    "resources": "સંસાધનો",
+    "company": "કંપની",
+    "legal": "કાનૂની",
+    "stationGuide": "સ્ટેશન માર્ગદર્શિકા",
+    "facilitiesMap": "સુવિધા નકશો",
+    "travelTips": "મુસાફરી ટિપ્સ",
+    "faq": "FAQ",
+    "aboutUs": "અમારા વિશે",
+    "contact": "સંપર્ક",
+    "careers": "કારકિર્દી",
+    "press": "પ્રેસ",
+    "privacy": "ગોપનીયતા નીતિ",
+    "terms": "સેવાની શરતો",
+    "cookies": "કૂકી નીતિ",
+    "copyright": "© 2025 RailWayZ — બધા હક્કો અનામત"
+  },
+  "common": {
+    "search": "શોધો",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "એક ભૂલ થઈ",
+    "retry": "ફરી પ્રયાસ કરો",
+    "cancel": "રદ કરો",
+    "save": "સાચવો",
+    "delete": "કાઢી નાખો",
+    "edit": "સંપાદિત કરો",
+    "close": "બંધ કરો",
+    "back": "પાછળ",
+    "next": "આગળ",
+    "submit": "સબમિટ કરો",
+    "selectLanguage": "ભાષા પસંદ કરો"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Home",
+    "stations": "Stations",
+    "facilities": "Facilities",
+    "navigation": "Navigation",
+    "alerts": "Alerts",
+    "about": "About"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "phone": "Phone",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember me",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "welcomeBack": "Welcome Back",
+    "signInToAccount": "Sign in to your account",
+    "enterPassword": "Enter your password",
+    "signIn": "Sign In",
+    "backToHome": "Back to Home",
+    "joinToday": "Join RailWayZ today",
+    "fullName": "Full Name",
+    "enterFullName": "Enter your full name",
+    "phonePlaceholder": "10-digit mobile number",
+    "phoneError": "Enter a valid 10-digit number",
+    "iAmA": "I am a",
+    "passenger": "Passenger",
+    "authority": "Railway Authority",
+    "createPassword": "Create a password",
+    "confirmPassword": "Confirm Password",
+    "confirmYourPassword": "Confirm your password",
+    "passwordMismatch": "Passwords don't match",
+    "passwordMin8": "At least 8 characters",
+    "passwordNumber": "Contains a number",
+    "passwordUppercase": "Contains uppercase",
+    "agreeToTerms": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "createAccountBtn": "Create Account"
+  },
+  "home": {
+    "hero": {
+      "title": "Navigate Indian Railways",
+      "subtitle": "with Ease",
+      "description": "Your smart companion for seamless railway station navigation. Find platforms, facilities, and services instantly.",
+      "searchPlaceholder": "Search stations...",
+      "exploreStations": "Explore Stations",
+      "viewMap": "View Map"
+    },
+    "features": {
+      "title": "Why Choose RailWayZ?",
+      "subtitle": "Smart features designed for the modern traveler",
+      "navigation": {
+        "title": "Smart Navigation",
+        "description": "Get turn-by-turn directions inside railway stations"
+      },
+      "realtime": {
+        "title": "Real-time Updates",
+        "description": "Stay informed with live platform changes and alerts"
+      },
+      "facilities": {
+        "title": "Find Facilities",
+        "description": "Locate restrooms, food courts, and more instantly"
+      },
+      "offline": {
+        "title": "Offline Access",
+        "description": "Access station maps even without internet"
+      }
+    }
+  },
+  "stations": {
+    "title": "Railway Stations",
+    "subtitle": "Explore stations across India",
+    "searchPlaceholder": "Search by station name or city...",
+    "platforms": "Platforms",
+    "viewDetails": "View Details",
+    "facilities": "Facilities",
+    "noResults": "No stations found"
+  },
+  "facilities": {
+    "title": "Station Facilities",
+    "subtitle": "Find amenities and services at railway stations",
+    "selectStation": "Select a station",
+    "allCategories": "All Categories",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "open24Hours": "Open 24 Hours",
+    "platform": "Platform",
+    "location": "Location",
+    "noFacilities": "No facilities found"
+  },
+  "navigation": {
+    "title": "Station Navigation",
+    "subtitle": "Get directions inside the station",
+    "selectStation": "Select Station",
+    "selectStart": "Starting Point",
+    "selectDestination": "Destination",
+    "guideMe": "Guide Me",
+    "estimatedTime": "Estimated Time",
+    "minutes": "minutes",
+    "directions": "Directions"
+  },
+  "alerts": {
+    "title": "Alerts & Notifications",
+    "subtitle": "Stay updated with important announcements",
+    "noAlerts": "No active alerts",
+    "platformChange": "Platform Change",
+    "maintenance": "Maintenance",
+    "general": "General",
+    "emergency": "Emergency"
+  },
+  "about": {
+    "title": "About RailWayZ",
+    "subtitle": "Your trusted railway navigation companion",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To make railway station navigation seamless and accessible for every traveler in India."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A future where navigating any railway station is as easy as using your smartphone."
+    }
+  },
+  "footer": {
+    "description": "Your smart companion for seamless railway station navigation across India.",
+    "resources": "Resources",
+    "company": "Company",
+    "legal": "Legal",
+    "stationGuide": "Station Guide",
+    "facilitiesMap": "Facilities Map",
+    "travelTips": "Travel Tips",
+    "faq": "FAQ",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "careers": "Careers",
+    "press": "Press",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© 2025 RailWayZ — All Rights Reserved"
+  },
+  "common": {
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "selectLanguage": "Select Language"
+  }
+}

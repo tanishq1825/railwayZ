@@ -1,0 +1,140 @@
+{
+  "nav": {
+    "home": "ਹੋਮ",
+    "stations": "ਸਟੇਸ਼ਨ",
+    "facilities": "ਸਹੂਲਤਾਂ",
+    "navigation": "ਨੈਵੀਗੇਸ਼ਨ",
+    "alerts": "ਅਲਰਟ",
+    "about": "ਸਾਡੇ ਬਾਰੇ"
+  },
+  "auth": {
+    "login": "ਲੌਗਇਨ",
+    "signup": "ਸਾਈਨ ਅੱਪ",
+    "logout": "ਲੌਗਆਊਟ",
+    "email": "ਈਮੇਲ",
+    "password": "ਪਾਸਵਰਡ",
+    "name": "ਨਾਮ",
+    "phone": "ਫ਼ੋਨ",
+    "forgotPassword": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
+    "rememberMe": "ਮੈਨੂੰ ਯਾਦ ਰੱਖੋ",
+    "noAccount": "ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "hasAccount": "ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?",
+    "createAccount": "ਖਾਤਾ ਬਣਾਓ"
+  },
+  "home": {
+    "hero": {
+      "title": "ਭਾਰਤੀ ਰੇਲਵੇ ਵਿੱਚ ਨੈਵੀਗੇਟ ਕਰੋ",
+      "subtitle": "ਆਸਾਨੀ ਨਾਲ",
+      "description": "ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਨੈਵੀਗੇਸ਼ਨ ਲਈ ਤੁਹਾਡਾ ਸਮਾਰਟ ਸਾਥੀ। ਪਲੇਟਫਾਰਮ, ਸਹੂਲਤਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਤੁਰੰਤ ਲੱਭੋ।",
+      "searchPlaceholder": "ਸਟੇਸ਼ਨ ਖੋਜੋ...",
+      "exploreStations": "ਸਟੇਸ਼ਨ ਦੇਖੋ",
+      "viewMap": "ਨਕਸ਼ਾ ਦੇਖੋ"
+    },
+    "features": {
+      "title": "RailWayZ ਕਿਉਂ ਚੁਣੋ?",
+      "subtitle": "ਆਧੁਨਿਕ ਯਾਤਰੀਆਂ ਲਈ ਸਮਾਰਟ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+      "navigation": {
+        "title": "ਸਮਾਰਟ ਨੈਵੀਗੇਸ਼ਨ",
+        "description": "ਰੇਲਵੇ ਸਟੇਸ਼ਨਾਂ ਅੰਦਰ ਟਰਨ-ਬਾਈ-ਟਰਨ ਦਿਸ਼ਾ ਪ੍ਰਾਪਤ ਕਰੋ"
+      },
+      "realtime": {
+        "title": "ਰੀਅਲ-ਟਾਈਮ ਅੱਪਡੇਟ",
+        "description": "ਲਾਈਵ ਪਲੇਟਫਾਰਮ ਬਦਲਾਵ ਅਤੇ ਅਲਰਟ ਨਾਲ ਅੱਪਡੇਟ ਰਹੋ"
+      },
+      "facilities": {
+        "title": "ਸਹੂਲਤਾਂ ਲੱਭੋ",
+        "description": "ਟਾਇਲਟ, ਫੂਡ ਕੋਰਟ ਅਤੇ ਹੋਰ ਤੁਰੰਤ ਲੱਭੋ"
+      },
+      "offline": {
+        "title": "ਔਫਲਾਈਨ ਐਕਸੈਸ",
+        "description": "ਇੰਟਰਨੈੱਟ ਤੋਂ ਬਿਨਾਂ ਵੀ ਸਟੇਸ਼ਨ ਨਕਸ਼ੇ ਐਕਸੈਸ ਕਰੋ"
+      }
+    }
+  },
+  "stations": {
+    "title": "ਰੇਲਵੇ ਸਟੇਸ਼ਨ",
+    "subtitle": "ਭਾਰਤ ਭਰ ਵਿੱਚ ਸਟੇਸ਼ਨ ਦੇਖੋ",
+    "searchPlaceholder": "ਸਟੇਸ਼ਨ ਦੇ ਨਾਮ ਜਾਂ ਸ਼ਹਿਰ ਦੁਆਰਾ ਖੋਜੋ...",
+    "platforms": "ਪਲੇਟਫਾਰਮ",
+    "viewDetails": "ਵੇਰਵੇ ਦੇਖੋ",
+    "facilities": "ਸਹੂਲਤਾਂ",
+    "noResults": "ਕੋਈ ਸਟੇਸ਼ਨ ਨਹੀਂ ਮਿਲਿਆ"
+  },
+  "facilities": {
+    "title": "ਸਟੇਸ਼ਨ ਸਹੂਲਤਾਂ",
+    "subtitle": "ਰੇਲਵੇ ਸਟੇਸ਼ਨਾਂ 'ਤੇ ਸਹੂਲਤਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲੱਭੋ",
+    "selectStation": "ਸਟੇਸ਼ਨ ਚੁਣੋ",
+    "allCategories": "ਸਾਰੀਆਂ ਸ਼੍ਰੇਣੀਆਂ",
+    "available": "ਉਪਲਬਧ",
+    "unavailable": "ਅਣਉਪਲਬਧ",
+    "open24Hours": "24 ਘੰਟੇ ਖੁੱਲ੍ਹਾ",
+    "platform": "ਪਲੇਟਫਾਰਮ",
+    "location": "ਸਥਾਨ",
+    "noFacilities": "ਕੋਈ ਸਹੂਲਤ ਨਹੀਂ ਮਿਲੀ"
+  },
+  "navigation": {
+    "title": "ਸਟੇਸ਼ਨ ਨੈਵੀਗੇਸ਼ਨ",
+    "subtitle": "ਸਟੇਸ਼ਨ ਅੰਦਰ ਦਿਸ਼ਾ ਪ੍ਰਾਪਤ ਕਰੋ",
+    "selectStation": "ਸਟੇਸ਼ਨ ਚੁਣੋ",
+    "selectStart": "ਸ਼ੁਰੂਆਤੀ ਬਿੰਦੂ",
+    "selectDestination": "ਮੰਜ਼ਿਲ",
+    "guideMe": "ਮੈਨੂੰ ਮਾਰਗਦਰਸ਼ਨ ਕਰੋ",
+    "estimatedTime": "ਅੰਦਾਜ਼ਨ ਸਮਾਂ",
+    "minutes": "ਮਿੰਟ",
+    "directions": "ਦਿਸ਼ਾਵਾਂ"
+  },
+  "alerts": {
+    "title": "ਅਲਰਟ ਅਤੇ ਸੂਚਨਾਵਾਂ",
+    "subtitle": "ਮਹੱਤਵਪੂਰਨ ਘੋਸ਼ਣਾਵਾਂ ਨਾਲ ਅੱਪਡੇਟ ਰਹੋ",
+    "noAlerts": "ਕੋਈ ਸਰਗਰਮ ਅਲਰਟ ਨਹੀਂ",
+    "platformChange": "ਪਲੇਟਫਾਰਮ ਬਦਲਾਵ",
+    "maintenance": "ਰੱਖ-ਰਖਾਅ",
+    "general": "ਆਮ",
+    "emergency": "ਐਮਰਜੈਂਸੀ"
+  },
+  "about": {
+    "title": "RailWayZ ਬਾਰੇ",
+    "subtitle": "ਤੁਹਾਡਾ ਭਰੋਸੇਮੰਦ ਰੇਲਵੇ ਨੈਵੀਗੇਸ਼ਨ ਸਾਥੀ",
+    "mission": {
+      "title": "ਸਾਡਾ ਮਿਸ਼ਨ",
+      "description": "ਭਾਰਤ ਵਿੱਚ ਹਰ ਯਾਤਰੀ ਲਈ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਨੈਵੀਗੇਸ਼ਨ ਨੂੰ ਆਸਾਨ ਅਤੇ ਪਹੁੰਚਯੋਗ ਬਣਾਉਣਾ।"
+    },
+    "vision": {
+      "title": "ਸਾਡੀ ਦ੍ਰਿਸ਼ਟੀ",
+      "description": "ਇੱਕ ਭਵਿੱਖ ਜਿੱਥੇ ਕਿਸੇ ਵੀ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਵਿੱਚ ਨੈਵੀਗੇਟ ਕਰਨਾ ਸਮਾਰਟਫੋਨ ਵਰਤਣ ਜਿੰਨਾ ਆਸਾਨ ਹੋਵੇ।"
+    }
+  },
+  "footer": {
+    "description": "ਭਾਰਤ ਭਰ ਵਿੱਚ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਨੈਵੀਗੇਸ਼ਨ ਲਈ ਤੁਹਾਡਾ ਸਮਾਰਟ ਸਾਥੀ।",
+    "resources": "ਸਰੋਤ",
+    "company": "ਕੰਪਨੀ",
+    "legal": "ਕਾਨੂੰਨੀ",
+    "stationGuide": "ਸਟੇਸ਼ਨ ਗਾਈਡ",
+    "facilitiesMap": "ਸਹੂਲਤਾਂ ਨਕਸ਼ਾ",
+    "travelTips": "ਯਾਤਰਾ ਸੁਝਾਅ",
+    "faq": "FAQ",
+    "aboutUs": "ਸਾਡੇ ਬਾਰੇ",
+    "contact": "ਸੰਪਰਕ",
+    "careers": "ਕਰੀਅਰ",
+    "press": "ਪ੍ਰੈਸ",
+    "privacy": "ਗੋਪਨੀਯਤਾ ਨੀਤੀ",
+    "terms": "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ",
+    "cookies": "ਕੂਕੀ ਨੀਤੀ",
+    "copyright": "© 2025 RailWayZ — ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ"
+  },
+  "common": {
+    "search": "ਖੋਜੋ",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "error": "ਇੱਕ ਗਲਤੀ ਹੋਈ",
+    "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "save": "ਸੇਵ ਕਰੋ",
+    "delete": "ਮਿਟਾਓ",
+    "edit": "ਸੰਪਾਦਿਤ ਕਰੋ",
+    "close": "ਬੰਦ ਕਰੋ",
+    "back": "ਪਿੱਛੇ",
+    "next": "ਅਗਲਾ",
+    "submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+    "selectLanguage": "ਭਾਸ਼ਾ ਚੁਣੋ"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "nav": {
+    "home": "होम",
+    "stations": "स्टेशन",
+    "facilities": "सुविधा",
+    "navigation": "नेव्हिगेशन",
+    "alerts": "अलर्ट",
+    "about": "आमच्याबद्दल"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "logout": "लॉगआउट",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "name": "नाव",
+    "phone": "फोन",
+    "forgotPassword": "पासवर्ड विसरलात?",
+    "rememberMe": "मला लक्षात ठेवा",
+    "noAccount": "खाते नाही?",
+    "hasAccount": "आधीच खाते आहे?",
+    "createAccount": "खाते तयार करा"
+  },
+  "home": {
+    "hero": {
+      "title": "भारतीय रेल्वेमध्ये नेव्हिगेट करा",
+      "subtitle": "सहजतेने",
+      "description": "रेल्वे स्टेशन नेव्हिगेशनसाठी तुमचा स्मार्ट साथीदार. प्लॅटफॉर्म, सुविधा आणि सेवा त्वरित शोधा.",
+      "searchPlaceholder": "स्टेशन शोधा...",
+      "exploreStations": "स्टेशन पहा",
+      "viewMap": "नकाशा पहा"
+    },
+    "features": {
+      "title": "RailWayZ का निवडावे?",
+      "subtitle": "आधुनिक प्रवाशांसाठी स्मार्ट वैशिष्ट्ये",
+      "navigation": {
+        "title": "स्मार्ट नेव्हिगेशन",
+        "description": "रेल्वे स्टेशनमध्ये टर्न-बाय-टर्न दिशानिर्देश मिळवा"
+      },
+      "realtime": {
+        "title": "रिअल-टाइम अपडेट्स",
+        "description": "लाइव्ह प्लॅटफॉर्म बदल आणि अलर्टसह अपडेट राहा"
+      },
+      "facilities": {
+        "title": "सुविधा शोधा",
+        "description": "शौचालय, फूड कोर्ट आणि बरेच काही त्वरित शोधा"
+      },
+      "offline": {
+        "title": "ऑफलाइन अॅक्सेस",
+        "description": "इंटरनेटशिवाय स्टेशन नकाशे अॅक्सेस करा"
+      }
+    }
+  },
+  "stations": {
+    "title": "रेल्वे स्टेशन",
+    "subtitle": "भारतभर स्टेशन पहा",
+    "searchPlaceholder": "स्टेशन नाव किंवा शहराने शोधा...",
+    "platforms": "प्लॅटफॉर्म",
+    "viewDetails": "तपशील पहा",
+    "facilities": "सुविधा",
+    "noResults": "स्टेशन सापडले नाही"
+  },
+  "facilities": {
+    "title": "स्टेशन सुविधा",
+    "subtitle": "रेल्वे स्टेशनवर सुविधा आणि सेवा शोधा",
+    "selectStation": "स्टेशन निवडा",
+    "allCategories": "सर्व श्रेणी",
+    "available": "उपलब्ध",
+    "unavailable": "अनुपलब्ध",
+    "open24Hours": "24 तास खुले",
+    "platform": "प्लॅटफॉर्म",
+    "location": "स्थान",
+    "noFacilities": "सुविधा सापडल्या नाहीत"
+  },
+  "navigation": {
+    "title": "स्टेशन नेव्हिगेशन",
+    "subtitle": "स्टेशनमध्ये दिशानिर्देश मिळवा",
+    "selectStation": "स्टेशन निवडा",
+    "selectStart": "सुरुवातीचा बिंदू",
+    "selectDestination": "गंतव्य",
+    "guideMe": "मला मार्गदर्शन करा",
+    "estimatedTime": "अंदाजित वेळ",
+    "minutes": "मिनिटे",
+    "directions": "दिशानिर्देश"
+  },
+  "alerts": {
+    "title": "अलर्ट आणि सूचना",
+    "subtitle": "महत्त्वाच्या घोषणांसह अपडेट राहा",
+    "noAlerts": "सक्रिय अलर्ट नाहीत",
+    "platformChange": "प्लॅटफॉर्म बदल",
+    "maintenance": "देखभाल",
+    "general": "सामान्य",
+    "emergency": "आपत्कालीन"
+  },
+  "about": {
+    "title": "RailWayZ बद्दल",
+    "subtitle": "तुमचा विश्वासार्ह रेल्वे नेव्हिगेशन साथीदार",
+    "mission": {
+      "title": "आमचे ध्येय",
+      "description": "भारतातील प्रत्येक प्रवाशासाठी रेल्वे स्टेशन नेव्हिगेशन सहज आणि सुलभ करणे."
+    },
+    "vision": {
+      "title": "आमची दृष्टी",
+      "description": "कोणत्याही रेल्वे स्टेशनवर नेव्हिगेट करणे स्मार्टफोन वापरण्याइतके सोपे असेल असे भविष्य."
+    }
+  },
+  "footer": {
+    "description": "भारतभर रेल्वे स्टेशन नेव्हिगेशनसाठी तुमचा स्मार्ट साथीदार.",
+    "resources": "संसाधने",
+    "company": "कंपनी",
+    "legal": "कायदेशीर",
+    "stationGuide": "स्टेशन मार्गदर्शक",
+    "facilitiesMap": "सुविधा नकाशा",
+    "travelTips": "प्रवास टिप्स",
+    "faq": "FAQ",
+    "aboutUs": "आमच्याबद्दल",
+    "contact": "संपर्क",
+    "careers": "करिअर",
+    "press": "प्रेस",
+    "privacy": "गोपनीयता धोरण",
+    "terms": "सेवा अटी",
+    "cookies": "कुकी धोरण",
+    "copyright": "© 2025 RailWayZ — सर्व हक्क राखीव"
+  },
+  "common": {
+    "search": "शोधा",
+    "loading": "लोड होत आहे...",
+    "error": "एक त्रुटी आली",
+    "retry": "पुन्हा प्रयत्न करा",
+    "cancel": "रद्द करा",
+    "save": "जतन करा",
+    "delete": "हटवा",
+    "edit": "संपादित करा",
+    "close": "बंद करा",
+    "back": "मागे",
+    "next": "पुढे",
+    "submit": "सबमिट करा",
+    "selectLanguage": "भाषा निवडा"
+  }
+}
