@@ -62,4 +62,3 @@ All code implementation, version control, and deployment were done by the author
 B.Tech CSE  
 RailWayZ Project
 Team VUTT
-AITR
