@@ -60,5 +60,5 @@ All code implementation, version control, and deployment were done by the author
 **Umesh Jii Rathore**  
 **Vansh Jain**  
 B.Tech CSE  
-Team RailWaYZ
 RailWayZ Project
+Team VUTT
