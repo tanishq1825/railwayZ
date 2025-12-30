@@ -186,7 +186,7 @@ export default function Signup() {
                         value={formData.name}
                         onChange={handleChange}
                         required
-                        placeholder="Your Name"
+                        placeholder="Your Full Name"
                         className="w-full h-12 pl-11 pr-4 rounded-lg bg-secondary"
                       />
                     </div>
@@ -202,7 +202,7 @@ export default function Signup() {
                         value={formData.email}
                         onChange={handleChange}
                         required
-                        placeholder="you@example.com"
+                        placeholder="example@----.com"
                         className="w-full h-12 pl-11 pr-4 rounded-lg bg-secondary"
                       />
                     </div>
@@ -217,7 +217,7 @@ export default function Signup() {
                         name="phone"
                         value={formData.phone}
                         onChange={handleChange}
-                        placeholder="9999999999"
+                        placeholder="XXXXXXXXXX"
                         className="w-full h-12 pl-11 pr-4 rounded-lg bg-secondary"
                       />
                     </div>
