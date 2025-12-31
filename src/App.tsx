@@ -16,8 +16,7 @@ import About from "./pages/About";
 
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
-
-import ForgotPassword from "./pages/auth/ForgotPassword";
+import ForgotPassword from "@/pages/ForgotPassword";
 import UpdatePassword from "./pages/auth/UpdatePassword";
 import VerifyEmail from "./pages/auth/verify-email";
 import AuthCallback from "./pages/auth/callback";
@@ -42,7 +41,7 @@ const App = () => (
 
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
-
+          <Route path="/forgot-password" element={<ForgotPassword />} />
             <Route path="/forgot-password" element={<ForgotPassword />} />
             <Route path="/update-password" element={<UpdatePassword />} />
             <Route path="/verify-email" element={<VerifyEmail />} />

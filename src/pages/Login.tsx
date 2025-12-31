@@ -104,9 +104,11 @@ export default function Login() {
                   <span className="text-sm text-muted-foreground">Remember me</span>
                 </label>
 
-                <Link to="/forgot-password" className="text-sm text-primary hover:underline">
-                  Forgot password?
-                </Link>
+                <Link to="/forgot-password" className="text-sm text-accent hover:underline text-right block"
+>
+  Forgot password?
+</Link>
+
               </div>
 
               <Button type="submit" size="lg" className="w-full">
